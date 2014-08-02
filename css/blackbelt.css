@@ -232,6 +232,9 @@ body {
 #header .inside a {
 	border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
 }
+#leftcontent {
+background-color:yellow;
+}
 #content {
 	margin: 0px auto; width: 700px;
 }
@@ -339,15 +342,6 @@ a.fusion_powered {
 }
 #content .sidebar .bsaPROrocks a {
 	color: rgb(6, 6, 6); line-height: 18px; font-size: 12px; font-weight: normal;
-}
-.bsaPROrocks a {
-	color: rgb(6, 6, 6); line-height: 18px; font-size: 12px; font-weight: normal;
-}
-#bsap_327 a:hover {
-	color: rgb(188, 80, 7);
-}
-.bsaPROrocks a:hover {
-	color: rgb(188, 80, 7);
 }
 #content .sidebar h4.syndicate a {
 	color: rgb(121, 121, 121); text-transform: none; font-size: 10px;
