@@ -247,7 +247,7 @@ body {
 }
 /* WIDTH OF MAIN CONTENT */
 #content .main-content {
-	padding: 0px; width: 700px; margin-bottom: 100px; float: right;
+	padding: 20px; width: 700px; margin-bottom: 100px; float: right;
 	border-style:solid;
 	border-color:#ff0000 #0000ff;
 }
