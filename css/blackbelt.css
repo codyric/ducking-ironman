@@ -238,7 +238,7 @@ body {
 #leftcontent {
 	background-color:blue;
 	position: relative; 
-	left: -10px;
+	left: 0px;
 }
 #content {
 	margin: 0px auto; width: 700px;
