@@ -236,7 +236,7 @@ body {
 #leftcontent {
 	background-color:yellow;
 	position: relative; 
-	left: 0px;
+	left: -10px;
 }
 #content {
 	margin: 0px auto; width: 1400px;
