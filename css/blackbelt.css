@@ -243,8 +243,11 @@ body {
 #content {
 	margin: 0px auto; width: 700px;
 }
+/* WIDTH OF MAIN CONTENT */
 #content .main-content {
 	padding: 0px; width: 700px; margin-bottom: 100px; float: right;
+	border-style:solid;
+	border-color:#ff0000 #0000ff;
 }
 #content .main-content .post .next {
 	float: right;
