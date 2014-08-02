@@ -241,7 +241,7 @@ body {
 	left: 0px;
 }
 #content {
-	margin: 0px auto; width: 700px;
+	margin: 10px auto; width: 700px;
 	border-style:solid;
 	border-color:#ff0000 #0000ff;
 }
