@@ -187,9 +187,10 @@ body {
 */
 #header {
 	background: url("http://geekspaghetti.com/header-background.jpg") repeat-x; 
-	width: 900; height: 208px; margin-bottom:0px /*48px; */
+	width: 900; height: 208px; /*margin-bottom:0px /*48px; */
 	/*border-top-color: rgb(44, 19, 2); 
 	border-top-width: 3px; border-top-style: solid;*/
+	margin: 10px;
 	border-style:solid;
 	border-color:#ff0000 #0000ff;
 	padding: 10px;
