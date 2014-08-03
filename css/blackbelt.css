@@ -241,9 +241,10 @@ body {
 	left: 0px;
 }
 #content {
-	margin: 10px auto; width: 700px;
+	margin: 10px; width: 700px;
 	border-style:solid;
-	border-color:#ff0000 #0000ff;
+	border-color:#ff0000 #0000ff; 
+	padding: 20px;
 }
 /* WIDTH OF MAIN CONTENT */
 #content .main-content {
