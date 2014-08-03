@@ -175,12 +175,10 @@ a img {
 html {
 	height: 100%;
 }
-body {
-	height: 100%;
-}
 
 body {
 	font: 400 14px/24px "proxima-nova-1", "proxima-nova-2", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; color: rgb(3, 3, 3); border-top-color: rgb(188, 80, 7); border-top-width: 2px; border-top-style: solid; font-size-adjust: none; font-stretch: normal;
+	height: 100%;
 }
 #wrapper {
 	margin-bottom: -210px; position: relative; min-height: 100%;
@@ -188,8 +186,8 @@ body {
 #header {
 	background: url("http://geekspaghetti.com/header-background.jpg") repeat-x; 
 	width: auto; height: 208px; margin-bottom: 48px; 
-	border-top-color: rgb(44, 19, 2); 
-	border-top-width: 3px; border-top-style: solid;
+	/*border-top-color: rgb(44, 19, 2); 
+	border-top-width: 3px; border-top-style: solid;*/
 	border-style:solid;
 	border-color:#ff0000 #0000ff;
 	
