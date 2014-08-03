@@ -196,7 +196,7 @@ body {
 	
 }
 #header .pre_container {
-	margin: 200px 0px -70px; text-align: center;
+	margin: 200px 0px -70px; text-align: right;
 }
 #header .pre_container p a {
 	transition:color 0.3s; 
